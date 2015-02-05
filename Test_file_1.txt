@@ -1,5 +1,7 @@
+hello
 now changes done by snehal..
 file is updated by snehal....
+<<<<<<< HEAD
 
 This is Gaurav Changes
 
@@ -9,3 +11,9 @@ Hi all this is manoj
 
 
 Ok
+=======
+This is done by me
+Gaurav Changes
+Hi all this is manoj
+
+>>>>>>> bf949bcc6344c5a776415a5ae982fb29a480fc3e
