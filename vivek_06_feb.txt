@@ -1,6 +1,4 @@
 Vivek added line one 
-<<<<<<< HEAD
 manoj added line two
-=======
 Vivek added line two
->>>>>>> 5cafc5677b2dde256026a0a721135cc4baa49f25
+
