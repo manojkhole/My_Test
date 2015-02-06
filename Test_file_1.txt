@@ -1,35 +1,5 @@
-<<<<<<< HEAD
-test1
-
-test gaurav 12132123
-
-
 =======
 hello
->>>>>>> e2aead6aff7116db27d78f5959f89c658c4eed42
-now changes done by snehal..
-file is updated by snehal....
-<<<<<<< HEAD
-
-This is Gaurav Changes
-
-<<<<<<< HEAD
 
 
-
-Hi all this is manoj
-
-=======
-Hi all this is manoj
-
-
-
-
-Ok
-=======
-This is done by me
-Gaurav Changes
-Hi all this is manoj
-
->>>>>>> bf949bcc6344c5a776415a5ae982fb29a480fc3e
->>>>>>> e2aead6aff7116db27d78f5959f89c658c4eed42
+Added new line today
